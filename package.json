@@ -1,0 +1,14 @@
+{
+  "name": "reduxTest",
+  "version": "1.0.0",
+  "description": "Demos about redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rui",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
